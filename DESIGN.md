@@ -25,7 +25,7 @@ We are starting to see more and more tools aim at improving the developer experi
 
 #### Non Goals
 
-- Kubernetest backed solution
+- Kubernetes backed solution
 - Cloud Run as the orchestration host
 
 ## Proposed Solution
